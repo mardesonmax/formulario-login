@@ -23,13 +23,14 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Requisitos:
 
 - [Node.js](https://nodejs.org/en/)
+- [Yarn](https://classic.yarnpkg.com/en/docs/install/#debian-stable)
 - Um editor como [Visual Studio Code](https://code.visualstudio.com/)
 
 Para iniciar:
 
 - Clone o repositório
 - Instale as depedencias utilziando `yarn`
-- Inicie projeto com `yarn start`
+- Inicie o projeto com `yarn start`
 
 Agora você pode acessar [`localhost:3000`](http://localhost:3000) no seu navegador.
 
